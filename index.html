@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RAUL PESCARIA </title>
+    <script src="index.js"></script>
+    <link rel="stylesheet" href="style.css">
+    
+</head>
+<body onresize="ajustaTamanhoPalcoJogo()">
+    
+
+    <div class="jogo">
+        <div class="areaJogo">
+            <!-- 16) criar o painel -->
+        <div class="painel"> 
+            <div class="vidas">
+                <img id="v1" src="img/anzol-branco.png" width="50px"  alt="anzol-vazio">
+                <img id="v2" src="img/anzol-branco.png" width="50px"  alt="anzol-cheio">
+                <img id="v3" src="img/anzol-branco.png" width="50px"  alt="anzol-cheio">
+                <img id="v4" src="img/anzol-branco.png" width="50px"  alt="anzol-cheio">
+                <img id="v5" src="img/anzol-branco.png" width="50px"  alt="anzol-cheio">
+            
+            </div>
+        <div class="cronometro">Tempo Restante: <span id="cronometro"></span></div>
+        </div>
+
+        <script>
+
+            //19) fica dinamico a associação carrega antes do setInterval
+            document.getElementById('cronometro') . innerHTML = tempo;
+
+            //14) metodo setInterval para colocar um intervalo de tempo na posição Randômica
+            
+            let criarPeixe = setInterval(function(){
+                posicaoRandomica();
+                } ,criaNivel);
+
+        </script>
+    </div>
+
+</body>
+</html>
