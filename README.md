@@ -11,3 +11,8 @@
 ### BOOTSTRAP
 ### JAVASCRIPT
 ![inicio](img-vitoria.png)
+
+![inicio](img-inicio-do-game.png)
+
+![inicio](img-game-over.png)
+
