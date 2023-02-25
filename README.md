@@ -10,9 +10,19 @@
 ### CSS3
 ### BOOTSTRAP
 ### JAVASCRIPT
-![inicio](img-vitoria.png)
-
+--------------------------------------------------------
+## Tela de inicio
 ![inicio](img-inicio-do-game.png)
 
-![inicio](img-game-over.png)
+--------------------------------------------------------
+## Tela do Game
+![game](img-game.png)
+
+-------------------------------------------------------
+## Tela de Vitória
+![vitoria](img-vitoria.png)
+
+------------------------------------------------------
+## Tela de Game-Over
+![derrota](img-game-over.png)
 
