@@ -10,4 +10,4 @@
 ### CSS3
 ### BOOTSTRAP
 ### JAVASCRIPT
-![inicio](img-inicio-do-game.png)
+![inicio](img-vitoria.png)
