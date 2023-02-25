@@ -1,5 +1,5 @@
 html{
-    cursor: url(img/anzol.png) 10 100, auto;
+    cursor: url(img/anzol.png) 30 100, auto;
 }
 
 body{
@@ -32,7 +32,7 @@ body{
 }
 .peixe02{
     margin: 0px;
-    padding: 0px;
+    padding: 0px ;
     width: 60px;
 }
 .peixe03{
