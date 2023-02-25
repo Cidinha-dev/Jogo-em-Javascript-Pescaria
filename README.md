@@ -1,22 +1,15 @@
-# App-em-Javascript
-## Game pescaria 
-### O jogo Pescaria foi criado em JavaScript.
-### Funciona assim, você escolhe o nível de velocidade que iram aparecer os Peixes RÂNDOMICAMENTE com um tempo e limite de peixes não capturados
+## App-em-Javascript --- LINK => [jogar](https://raul-pescaria.netlify.app)
+### Game pescaria 
+
+### Funciona assim, você escolhe o nível de velocidade que iram aparecer os Peixes RÂNDOMICAMENTE 
 
 ---------------------------------------------------------
 ## TECNOLOGIAS UTILIZADAS
 
-### HTML5
-### CSS3
-### BOOTSTRAP
-### JAVASCRIPT
---------------------------------------------------------
-## Tela de inicio
-![inicio](img-inicio-do-game.png)
-
---------------------------------------------------------
-## Tela do Game
-![game](img-game.png)
+#### HTML5
+#### CSS3
+#### BOOTSTRAP
+#### JAVASCRIPT
 
 -------------------------------------------------------
 ## Tela de Vitória
